@@ -1,0 +1,24 @@
+{
+  "name": "@webreflection/importmap",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "./variants/esm-run.js",
+  "module": "./variants/esm-run.js",
+  "exports": {
+    ".": "./variants/esm-run.js",
+    "./esm-run": "./variants/esm-run.js",
+    "./jsdelivr": "./variants/jsdelivr.js"
+  },
+  "keywords": ["importmap", "automatic", "vanilla"],
+  "author": "Andrea Giammarchi",
+  "license": "MIT",
+  "description": "Automatically create an importmap script",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/importmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WebReflection/importmap/issues"
+  },
+  "homepage": "https://github.com/WebReflection/importmap#readme"
+}
