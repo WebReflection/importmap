@@ -1,6 +1,6 @@
 {
   "name": "@webreflection/importmap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "./variants/esm-run.js",
   "module": "./variants/esm-run.js",
@@ -9,7 +9,11 @@
     "./esm-run": "./variants/esm-run.js",
     "./jsdelivr": "./variants/jsdelivr.js"
   },
-  "keywords": ["importmap", "automatic", "vanilla"],
+  "keywords": [
+    "importmap",
+    "automatic",
+    "vanilla"
+  ],
   "author": "Andrea Giammarchi",
   "license": "MIT",
   "description": "Automatically create an importmap script",
