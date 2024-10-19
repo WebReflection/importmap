@@ -1,4 +1,4 @@
-# @webreflection/importmap
+# Deprecated: use [data-imports](https://github.com/WebReflection/data-imports)
 
 <sup>**Social Media Photo by [Chris Lawton](https://unsplash.com/@chrislawton) on [Unsplash](https://unsplash.com/)**</sup>
 
